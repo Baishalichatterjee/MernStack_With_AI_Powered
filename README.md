@@ -21,7 +21,7 @@ A full-stack **MERN application** to manage college clubs and events with **AI c
 
 Home Page – Clubs Overview
 
-![Clubs](./screenshots/Screenshot 2025-09-19 005019.png)
+![Clubs]((https://github.com/Baishalichatterjee/MernStack_With_AI_Powered/blob/main/Screenshot%202025-09-19%20005006.png))
 
  Events Page
 
