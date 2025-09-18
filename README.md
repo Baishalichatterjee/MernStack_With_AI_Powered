@@ -21,7 +21,7 @@ A full-stack **MERN application** to manage college clubs and events with **AI c
 
 Home Page – Clubs Overview
 
-![Clubs](./screenshots/Screenshot1.png)
+![Clubs](./screenshots/Screenshot 2025-09-19 005019.png)
 
  Events Page
 
