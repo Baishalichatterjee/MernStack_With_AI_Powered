@@ -58,6 +58,10 @@ Register Page
 <img width="1908" height="1009" alt="Screenshot 2025-10-22 010351" src="https://github.com/user-attachments/assets/c69c7527-f97e-4a44-9666-94655457a6ee" />
 
 
+Joining Form
+
+<img width="1919" height="1076" alt="Screenshot 2025-10-22 011238" src="https://github.com/user-attachments/assets/043586c6-b81d-41e3-bae2-a6106a2c2bf1" />
+
 
 🛠️ Tech Stack
 
