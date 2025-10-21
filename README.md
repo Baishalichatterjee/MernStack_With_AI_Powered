@@ -19,17 +19,22 @@ A full-stack **MERN application** to manage college clubs and events with **AI c
 
 
 
-Home Page – Clubs Overview
+Home Page 
+<img width="1907" height="922" alt="Screenshot 2025-09-19 005006" src="https://github.com/user-attachments/assets/8bc4609a-9fd1-424c-8a1a-554fb1931464" />
 
-![Clubs]((https://github.com/Baishalichatterjee/MernStack_With_AI_Powered/blob/main/Screenshot%202025-09-19%20005006.png))
+ Clubs Overview
+<img width="1905" height="918" alt="Screenshot 2025-09-19 005019" src="https://github.com/user-attachments/assets/6a573e41-3bef-47dd-8b17-ff37a37c68d6" />
+
 
  Events Page
 
-![Events](./screenshots/Screenshot2.png)
+<img width="1909" height="871" alt="Screenshot 2025-09-19 005031" src="https://github.com/user-attachments/assets/87202c74-66be-4b34-8300-8d7a8acc9c6a" />
+
 
 AI Chatbot
 
-![Chatbot](./screenshots/Screenshot3.png)
+<img width="1906" height="923" alt="Screenshot 2025-09-19 005039" src="https://github.com/user-attachments/assets/af75361d-b1cd-4498-95fa-31b2658fa814" />
+
 
  Admin Dashboard
 
