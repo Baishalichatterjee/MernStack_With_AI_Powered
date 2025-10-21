@@ -43,7 +43,7 @@ AI Chatbot
 
  Admin Dashboard
 
-![Admin](./screenshots/Screenshot4.png)
+<img width="1906" height="923" alt="Screenshot 2025-09-19 005039" src="[https://github.com/user-attachments/assets/af75361d-b1cd-4498-95fa-31b2658fa814](https://github.com/Baishalichatterjee/MernStack_With_AI_Powered/blob/main/Screenshot%202025-09-19%20005131.png)" />
 
 
 Register Page
