@@ -43,17 +43,20 @@ AI Chatbot
 
  Admin Dashboard
 
-<img width="1906" height="923" alt="Screenshot 2025-09-19 005039" src="[https://github.com/user-attachments/assets/af75361d-b1cd-4498-95fa-31b2658fa814](https://github.com/Baishalichatterjee/MernStack_With_AI_Powered/blob/main/Screenshot%202025-09-19%20005131.png)" />
+<img width="1919" height="1017" alt="Screenshot 2025-10-22 010439" src="https://github.com/user-attachments/assets/ef4181ba-fcbb-4925-9f75-0d29e72dafb1" />
+
 
 
 Register Page
 
-![Register](./screenshots/Screenshot5.png)
+<img width="1919" height="1018" alt="Screenshot 2025-10-22 010405" src="https://github.com/user-attachments/assets/6afb6c9b-f850-4ecc-a852-6535890d9867" />
+
 
 
  Login Page
 
-![Login](./screenshots/Screenshot6.png)
+<img width="1908" height="1009" alt="Screenshot 2025-10-22 010351" src="https://github.com/user-attachments/assets/c69c7527-f97e-4a44-9666-94655457a6ee" />
+
 
 
 🛠️ Tech Stack
