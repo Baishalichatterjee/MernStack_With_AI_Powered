@@ -114,5 +114,3 @@ http://localhost:3000
 * 💡 Realtime chatapp between students and teachers using socket io
 
 💡Developed with ❤️ using the MERN stack & AI
-
-Do you want me to **also create the `screenshots/` folder structure** in your project and rename your uploaded images automatically so you can just push to GitHub?
